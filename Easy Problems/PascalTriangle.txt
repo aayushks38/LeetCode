@@ -1,0 +1,145 @@
+// LeetCode 118 - Pascal's Triangle
+
+/*
+WHAT I LEARNED FROM THIS PROBLEM
+
+1. 2D ArrayList
+----------------
+List<List<Integer>> triangle = new ArrayList<>();
+
+triangle stores multiple rows.
+Each row itself is another ArrayList.
+
+Example:
+[
+ [1],
+ [1,1],
+ [1,2,1]
+]
+
+--------------------------------------------------
+
+2. Meaning of i and j
+---------------------
+i = current row number
+j = current position/index inside current row
+
+Example:
+i = 3
+
+Current row:
+[ ?, ?, ?, ? ]
+  0  1  2  3   <- j values
+
+--------------------------------------------------
+
+3. Outer and Inner Loop
+-----------------------
+
+Outer loop:
+for(int i = 0; i < numRows; i++)
+
+Creates rows.
+
+Inner loop:
+for(int j = 0; j <= i; j++)
+
+Creates elements inside current row.
+
+Reason:
+Row i always has i+1 elements.
+
+--------------------------------------------------
+
+4. Edge Elements
+----------------
+First and last elements of every row are always 1.
+
+Condition:
+if(j == 0 || j == i)
+
+Examples:
+[1]
+[1,1]
+[1,2,1]
+[1,3,3,1]
+
+--------------------------------------------------
+
+5. Middle Element Formula
+-------------------------
+Middle elements come from previous row.
+
+Formula:
+current[j] = previous[j-1] + previous[j]
+
+Code:
+triangle.get(i-1).get(j-1)
++
+triangle.get(i-1).get(j)
+
+--------------------------------------------------
+
+6. Understanding double .get()
+------------------------------
+
+triangle.get(2)
+returns:
+[1,2,1]
+
+triangle.get(2).get(1)
+returns:
+2
+
+First .get() -> choose row
+Second .get() -> choose element inside row
+
+--------------------------------------------------
+
+7. Main Pascal Triangle Logic
+-----------------------------
+
+Previous row:
+[1 2 1]
+
+Current row:
+[1 3 3 1]
+
+3 = 1 + 2
+3 = 2 + 1
+
+Visualization:
+
+      [1 2 1]
+        \ /
+         3
+
+--------------------------------------------------
+
+8. Important Java Syntax Learned
+--------------------------------
+
+Create 2D ArrayList:
+List<List<Integer>> triangle = new ArrayList<>();
+
+Create row:
+List<Integer> row = new ArrayList<>();
+
+Add element:
+row.add(1);
+
+Add row into triangle:
+triangle.add(row);
+
+Access element:
+triangle.get(i).get(j)
+
+--------------------------------------------------
+
+9. Time Complexity
+-------------------
+O(numRows²)
+
+Because:
+Nested loops are used.
+*/
