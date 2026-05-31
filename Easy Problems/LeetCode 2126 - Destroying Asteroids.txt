@@ -1,0 +1,37 @@
+LeetCode 2126 - Destroying Asteroids
+
+Theory:
+The planet can destroy an asteroid only if its current mass is greater
+than or equal to the asteroid's mass. After destroying an asteroid,
+the planet absorbs it and its mass increases by that asteroid's mass.
+
+To maximize the chances of destroying all asteroids, we should always
+destroy the smallest available asteroid first. Therefore, we sort the
+array in ascending order.
+
+After sorting:
+1. Traverse each asteroid from smallest to largest.
+2. If currentMass >= asteroid, destroy it and increase currentMass.
+3. Otherwise, it is impossible to destroy that asteroid and we return false.
+4. If all asteroids are destroyed successfully, return true.
+
+A long variable is used for currentMass because repeated additions may
+cause integer overflow when using int.
+
+Example:
+mass = 10
+asteroids = [3, 9, 19, 5, 21]
+
+After sorting:
+[3, 5, 9, 19, 21]
+
+10 >= 3  -> mass = 13
+13 >= 5  -> mass = 18
+18 >= 9  -> mass = 27
+27 >= 19 -> mass = 46
+46 >= 21 -> mass = 67
+
+All asteroids are destroyed.
+
+Time Complexity: O(n log n)
+Space Complexity: O(1) or O(log n) depending on sorting implementation
