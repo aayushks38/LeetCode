@@ -1,0 +1,26 @@
+LeetCode 977 - Squares of a Sorted Array
+
+Theory:
+The given array is already sorted in non-decreasing order. However, after squaring
+each element, the array may no longer remain sorted because negative numbers become
+positive. For example, [-4, -1, 0, 3, 10] becomes [16, 1, 0, 9, 100].
+
+A key observation is that the largest square will always come from either the
+leftmost element or the rightmost element of the array. This is because the elements
+with the largest absolute values are located at the ends of the sorted array.
+
+To take advantage of this observation, we use two pointers:
+- i points to the beginning of the array.
+- j points to the end of the array.
+- k points to the last position of the answer array.
+
+At each step, we compare the squares of nums[i] and nums[j]. The larger square is
+placed at index k of the answer array because it should appear later in sorted order.
+The corresponding pointer is then moved inward, and k is decremented.
+
+By continuously selecting the larger square from the two ends and filling the answer
+array from right to left, we obtain a sorted result in linear time without performing
+an additional sorting operation.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
