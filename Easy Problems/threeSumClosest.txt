@@ -1,0 +1,348 @@
+Problem Statement
+
+Given an integer array nums of length n and an integer target, find three integers in the array such that their sum is closest to the target. Return the sum of those three integers.
+
+It is guaranteed that exactly one solution exists.
+
+Understanding the Problem
+
+Unlike the classic 3Sum problem where we look for a triplet whose sum is exactly zero, here we are interested in finding a triplet whose sum has the smallest difference from the target.
+
+Example
+nums = [-1, 2, 1, -4]
+target = 1
+
+Possible triplets:
+
+(-1, 2, 1) = 2
+(-1, 2, -4) = -3
+(-1, 1, -4) = -4
+(2, 1, -4) = -1
+
+Differences from target:
+
+|2 - 1|  = 1
+|-3 - 1| = 4
+|-4 - 1| = 5
+|-1 - 1| = 2
+
+The closest sum is:
+
+2
+Brute Force Approach
+Idea
+
+Generate every possible triplet and calculate its sum.
+
+For each triplet:
+
+Calculate the sum.
+Compute its distance from the target.
+Keep track of the triplet whose sum is closest to the target.
+Algorithm
+Iterate through all possible first elements.
+Iterate through all possible second elements.
+Iterate through all possible third elements.
+Calculate the triplet sum.
+Update the answer if it is closer to the target.
+Brute Force Code
+public static int threeSumClosest(int[] nums, int target) {
+    int closest = nums[0] + nums[1] + nums[2];
+
+    for (int i = 0; i < nums.length - 2; i++) {
+        for (int j = i + 1; j < nums.length - 1; j++) {
+            for (int k = j + 1; k < nums.length; k++) {
+
+                int sum = nums[i] + nums[j] + nums[k];
+
+                if (Math.abs(sum - target) < Math.abs(closest - target)) {
+                    closest = sum;
+                }
+            }
+        }
+    }
+
+    return closest;
+}
+Complexity Analysis
+Time Complexity
+
+There are three nested loops:
+
+O(n³)
+Space Complexity
+O(1)
+Limitation
+
+For large arrays:
+
+n = 1000
+
+Operations become:
+
+1000³ = 1,000,000,000
+
+which is too slow.
+
+Therefore we need a better solution.
+
+Optimized Approach (Sorting + Two Pointers)
+Key Observation
+
+After sorting the array:
+
+Fix one element.
+Find the best remaining two elements using the two-pointer technique.
+
+This reduces one loop.
+
+Why Sorting Helps
+
+Consider:
+
+nums = [-4, -1, 1, 2]
+target = 1
+
+Sorted array:
+
+[-4, -1, 1, 2]
+
+Suppose:
+
+i = 0
+
+Fixed value:
+
+-4
+
+Now:
+
+left = 1
+right = 3
+
+Current sum:
+
+-4 + (-1) + 2 = -3
+
+Since:
+
+-3 < target
+
+we need a larger sum.
+
+Because the array is sorted:
+
+left++
+
+moves to a larger number and increases the sum.
+
+Similarly:
+
+If
+
+sum > target
+
+then:
+
+right--
+
+reduces the sum.
+
+This is the foundation of the two-pointer technique.
+
+Optimized Algorithm
+Step 1
+
+Sort the array.
+
+Step 2
+
+Initialize:
+
+closest = nums[0] + nums[1] + nums[2];
+Step 3
+
+Fix one element using a loop.
+
+for(i = 0 to n-3)
+Step 4
+
+Use two pointers:
+
+left = i + 1;
+right = n - 1;
+Step 5
+
+Calculate:
+
+sum = nums[i] + nums[left] + nums[right];
+Step 6
+
+Update closest answer if needed.
+
+Step 7
+
+Move pointers:
+
+If sum < target → increase sum → left++
+If sum > target → decrease sum → right--
+If sum == target → return immediately
+Why the Greedy Pointer Movement Works
+
+Suppose:
+
+nums = [-4,-1,1,2]
+target = 1
+
+Current sum:
+
+-4 + (-1) + 2 = -3
+
+Since:
+
+-3 < 1
+
+We need a larger sum.
+
+Moving right leftward would only make the sum smaller.
+
+Therefore the only useful move is:
+
+left++
+
+which increases the sum.
+
+Similarly:
+
+If:
+
+sum > target
+
+we move:
+
+right--
+
+to decrease the sum.
+
+Thus every pointer movement is logically optimal.
+
+Dry Run
+Input
+nums = [-1,2,1,-4]
+target = 1
+Sort
+[-4,-1,1,2]
+Initialize
+closest = -4 + (-1) + 1
+        = -4
+Iteration 1
+i = 0
+left = 1
+right = 3
+
+Sum:
+
+-4 + (-1) + 2
+= -3
+
+Difference:
+
+|-3 - 1|
+= 4
+
+Update:
+
+closest = -3
+
+Since:
+
+-3 < 1
+
+Move:
+
+left++
+Iteration 2
+left = 2
+right = 3
+
+Sum:
+
+-4 + 1 + 2
+= -1
+
+Difference:
+
+|-1 - 1|
+= 2
+
+Better than previous.
+
+Update:
+
+closest = -1
+
+Move:
+
+left++
+
+Loop ends.
+
+Next Fixed Element
+i = 1
+left = 2
+right = 3
+
+Sum:
+
+-1 + 1 + 2
+= 2
+
+Difference:
+
+|2 - 1|
+= 1
+
+Update:
+
+closest = 2
+
+Pointers cross.
+
+Final Answer
+2
+Optimized Java Solution
+import java.util.Arrays;
+
+public class ThreeSumClosest {
+
+    public static int threeSumClosest(int[] nums, int target) {
+        Arrays.sort(nums);
+
+        int closest = nums[0] + nums[1] + nums[2];
+
+        for (int i = 0; i < nums.length - 2; i++) {
+
+            int left = i + 1;
+            int right = nums.length - 1;
+
+            while (left < right) {
+
+                int sum = nums[i] + nums[left] + nums[right];
+
+                if (Math.abs(sum - target) < Math.abs(closest - target)) {
+                    closest = sum;
+                }
+
+                if (sum == target) {
+                    return sum;
+                } else if (sum < target) {
+                    left++;
+                } else {
+                    right--;
+                }
+            }
+        }
+
+        return closest;
+    }
+}
