@@ -1,0 +1,54 @@
+1) Brute Force / Counting Approach
+Theory
+
+This is the simplest approach.
+
+Count how many 0s, 1s, and 2s are present.
+Then rewrite the array:
+first all 0s
+then all 1s
+then all 2s
+Why it works
+
+Since the only possible values are 0, 1, and 2, counting them is enough to rebuild the sorted array exactly.
+
+Complexity
+Time: O(n)
+Space: O(1) extra space, because only 3 counters are used
+2) Optimized Solution — Dutch National Flag Algorithm
+Theory
+
+This is the real interview-standard solution.
+
+We use three pointers:
+
+low → boundary for 0s
+mid → current element being checked
+high → boundary for 2s
+Idea
+
+At any point:
+
+elements before low are all 0s
+elements between low and mid - 1 are all 1s
+elements after high are all 2s
+elements from mid to high are still unsorted
+Rules
+If nums[mid] == 0:
+swap nums[low] and nums[mid]
+move both low++ and mid++
+If nums[mid] == 1:
+it is already in the correct middle region
+just do mid++
+If nums[mid] == 2:
+swap nums[mid] and nums[high]
+do high--
+do not move mid yet, because the swapped element must be checked
+Why it works
+
+This works in one pass because each number is placed directly into its correct region without needing full sorting.
+
+Complexity
+Time: O(n)
+Space: O(1)
+The brute force idea is to count the occurrences of 0, 1, and 2, then rebuild the array based on those counts. The optimized solution is the Dutch National Flag algorithm, which uses three pointers to partition the array into three regions. It scans the array once and places each value directly into its correct section, making it the best in-place solution with O(n) time and O(1) space.
