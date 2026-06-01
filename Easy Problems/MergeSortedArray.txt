@@ -1,0 +1,17 @@
+Since both arrays are already sorted, a straightforward idea would be to compare elements from the beginning of both arrays and place the smaller one into a new array. However, the problem asks us to store the merged result inside nums1 itself without using extra space.
+
+If we try to merge from the front of nums1, we may overwrite elements that have not yet been processed. To avoid this issue, we start from the end of both arrays.
+
+We use three pointers:
+
+i points to the last valid element in nums1 (m - 1).
+j points to the last element in nums2 (n - 1).
+k points to the last position of nums1 (m + n - 1).
+
+At each step, we compare nums1[i] and nums2[j]. The larger element should appear later in the sorted order, so we place it at index k and move the corresponding pointer backward. We also decrement k since that position has been filled.
+
+By filling nums1 from the back, we make use of the empty spaces already available in the array and avoid overwriting useful data.
+
+After one of the arrays is exhausted, there may still be elements left in nums2. These elements are copied into the remaining positions of nums1. If elements remain in nums1, no action is required because they are already in their correct positions.
+
+This approach processes each element exactly once, resulting in O(m + n) time complexity and O(1) extra space complexity.

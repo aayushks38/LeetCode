@@ -1,3 +1,20 @@
+/*
+LeetCode 88 - Merge Sorted Array
+
+Approach:
+Both arrays are already sorted. Instead of merging from the front,
+we merge from the back to avoid overwriting elements in nums1.
+
+i -> last valid element of nums1
+j -> last element of nums2
+k -> last position of nums1
+
+At each step, compare nums1[i] and nums2[j].
+Place the larger element at nums1[k] and move the corresponding pointer.
+
+Time Complexity: O(m + n)
+Space Complexity: O(1)
+*/
 import java.util.Arrays;
 
 public class MergeSortedArray {
