@@ -1,0 +1,33 @@
+Problem Statement
+
+Given an array cost where each element represents the price of a candy, the store offers a discount such that for every two candies purchased, one additional candy can be obtained for free. The free candy must have a cost less than or equal to the cheaper of the two purchased candies. The task is to determine the minimum amount of money required to buy all the candies.
+
+Brute Force Approach
+Idea
+Try all possible ways of grouping candies.
+For every possible grouping, determine which candy can be taken for free.
+Calculate the total amount paid for each arrangement.
+Return the minimum cost among all possible arrangements.
+Why It Works
+Since every possible grouping is explored, the optimal answer is guaranteed to be found.
+Drawback
+The number of possible arrangements grows extremely fast as the number of candies increases.
+This makes the solution impractical for large inputs.
+Complexity
+Time Complexity: Exponential (O(n!) in the worst case).
+Space Complexity: Depends on the implementation but can also be very large.
+Optimized Greedy Approach
+Key Observation
+
+To minimize the total amount paid, we should maximize the value of the candies received for free. Therefore, whenever possible, the most expensive valid candy should be chosen as the free candy.
+
+Strategy
+Sort the candy prices in ascending order.
+Start traversing from the most expensive candy.
+For every group of three candies:
+Pay for the two most expensive candies.
+Skip the third candy since it can be obtained for free.
+Continue until all candies have been processed.
+Why This Works
+The largest candies cannot realistically be free because a free candy must be less than or equal to the purchased candies.
+By processing candies from the highest price downward, every third candy becomes the most expensive candy that can legally be taken for free.
