@@ -13,7 +13,6 @@ public class RemoveElement {
                 low++;
             }
         }
-
         return high + 1;
     }
 

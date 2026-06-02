@@ -51,4 +51,3 @@ This works in one pass because each number is placed directly into its correct r
 Complexity
 Time: O(n)
 Space: O(1)
-The brute force idea is to count the occurrences of 0, 1, and 2, then rebuild the array based on those counts. The optimized solution is the Dutch National Flag algorithm, which uses three pointers to partition the array into three regions. It scans the array once and places each value directly into its correct section, making it the best in-place solution with O(n) time and O(1) space.

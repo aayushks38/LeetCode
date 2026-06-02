@@ -1,0 +1,226 @@
+========================================
+643. Maximum Average Subarray I
+========================================
+
+Pattern:
+Fixed Size Sliding Window
+
+Difficulty:
+Easy
+
+----------------------------------------
+Problem Statement
+----------------------------------------
+
+Given an integer array nums and an integer k,
+find the contiguous subarray of size k
+having the maximum average.
+
+Return that maximum average.
+
+----------------------------------------
+Key Observation
+----------------------------------------
+
+Average = Sum / Number of Elements
+
+Since every window has exactly k elements,
+
+Average = Sum / k
+
+k is constant for every window.
+
+Therefore:
+
+Maximum Average
+=
+Maximum Sum / k
+
+So we only need to find the maximum
+sum subarray of size k.
+
+----------------------------------------
+Brute Force Approach
+----------------------------------------
+
+Generate every subarray of size k.
+
+For each subarray:
+- Calculate sum
+- Calculate average
+- Track maximum average
+
+Time Complexity:
+
+O(n * k)
+
+Not efficient.
+
+----------------------------------------
+Optimal Approach
+----------------------------------------
+
+Use Fixed Size Sliding Window.
+
+Maintain a window of size k.
+
+Instead of recalculating every window sum:
+
+Remove outgoing element.
+Add incoming element.
+
+Update answer.
+
+----------------------------------------
+Sliding Window Logic
+----------------------------------------
+
+Window:
+
+[low ........ high]
+
+Window Size:
+
+high - low + 1
+
+Steps:
+
+1. Add nums[high] to sum.
+
+2. If window size < k:
+      expand window
+      high++
+
+3. If window size == k:
+      update maxSum
+
+4. Remove nums[low]
+      sum -= nums[low]
+
+5. Slide window:
+      low++
+      high++
+
+----------------------------------------
+Example
+----------------------------------------
+
+nums = [1,12,-5,-6,50,3]
+k = 4
+
+Window 1:
+
+[1,12,-5,-6]
+
+sum = 2
+
+maxSum = 2
+
+----------------------------------------
+
+Window 2:
+
+[12,-5,-6,50]
+
+sum = 51
+
+maxSum = 51
+
+----------------------------------------
+
+Window 3:
+
+[-5,-6,50,3]
+
+sum = 42
+
+maxSum = 51
+
+----------------------------------------
+
+Maximum Sum = 51
+
+Average:
+
+51 / 4
+
+= 12.75
+
+Answer = 12.75
+
+----------------------------------------
+Why Sliding Window Works
+----------------------------------------
+
+When moving from:
+
+[1,12,-5,-6]
+
+to
+
+[12,-5,-6,50]
+
+Instead of calculating sum again,
+
+Old Sum = 2
+
+Remove 1
+
+2 - 1 = 1
+
+Add 50
+
+1 + 50 = 51
+
+New Sum = 51
+
+Only O(1) work.
+
+----------------------------------------
+Complexity
+----------------------------------------
+
+Time Complexity:
+
+O(n)
+
+Each element enters and leaves
+the window at most once.
+
+----------------------------------------
+
+Space Complexity:
+
+O(1)
+
+Only a few variables are used.
+
+----------------------------------------
+Key Formula
+----------------------------------------
+
+Window Size:
+
+high - low + 1
+
+Update Maximum:
+
+maxSum = Math.max(maxSum, sum)
+
+Final Answer:
+
+(double) maxSum / k
+
+----------------------------------------
+Learning
+----------------------------------------
+
+This is a classic Fixed Size Sliding Window problem.
+
+The main idea is:
+
+Maximum Average
+=
+Maximum Sum / k
+
+because k remains constant.
