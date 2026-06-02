@@ -1,0 +1,336 @@
+========================================
+1343. Number of Sub-arrays of Size K and
+Average Greater than or Equal to Threshold
+========================================
+
+Pattern:
+Fixed Size Sliding Window
+
+Difficulty:
+Medium
+
+----------------------------------------
+Problem Statement
+----------------------------------------
+
+Given:
+
+arr[] = integer array
+k = window size
+threshold = minimum average
+
+Find the number of subarrays of size k
+whose average is greater than or equal
+to threshold.
+
+Return the count.
+
+----------------------------------------
+Example
+----------------------------------------
+
+arr = [2,2,2,2,5,5,5,8]
+k = 3
+threshold = 4
+
+Subarrays of size 3:
+
+[2,2,2]
+avg = 2
+
+[2,2,2]
+avg = 2
+
+[2,2,5]
+avg = 3
+
+[2,5,5]
+avg = 4
+
+[5,5,5]
+avg = 5
+
+[5,5,8]
+avg = 6
+
+Valid windows:
+
+[2,5,5]
+[5,5,5]
+[5,5,8]
+
+Answer = 3
+
+----------------------------------------
+Key Observation
+----------------------------------------
+
+Average Formula:
+
+average = sum / k
+
+Condition:
+
+average >= threshold
+
+Substitute:
+
+sum / k >= threshold
+
+Multiply by k:
+
+sum >= k * threshold
+
+Therefore:
+
+Instead of calculating average
+for every window,
+
+just check:
+
+sum >= k * threshold
+
+This avoids division completely.
+
+----------------------------------------
+Brute Force Approach
+----------------------------------------
+
+Generate every subarray of size k.
+
+For each subarray:
+
+1. Calculate sum
+2. Calculate average
+3. Compare with threshold
+
+Time Complexity:
+
+O(n * k)
+
+Not efficient.
+
+----------------------------------------
+Optimal Approach
+----------------------------------------
+
+Use Fixed Size Sliding Window.
+
+Maintain:
+
+sum = current window sum
+
+count = valid windows found
+
+Window size always remains k.
+
+----------------------------------------
+Sliding Window Idea
+----------------------------------------
+
+Build first window.
+
+Check:
+
+sum >= k * threshold
+
+If true:
+
+count++
+
+----------------------------------------
+
+Slide Window
+
+Add incoming element.
+
+Remove outgoing element.
+
+Check condition again.
+
+Update count.
+
+Repeat until end.
+
+----------------------------------------
+Dry Run
+----------------------------------------
+
+arr = [2,2,2,2,5,5,5,8]
+
+k = 3
+
+threshold = 4
+
+Required Sum:
+
+k * threshold
+
+3 * 4
+
+= 12
+
+----------------------------------------
+
+Window 1
+
+[2,2,2]
+
+sum = 6
+
+6 >= 12 ?
+
+No
+
+count = 0
+
+----------------------------------------
+
+Window 2
+
+[2,2,2]
+
+sum = 6
+
+No
+
+----------------------------------------
+
+Window 3
+
+[2,2,5]
+
+sum = 9
+
+No
+
+----------------------------------------
+
+Window 4
+
+[2,5,5]
+
+sum = 12
+
+Yes
+
+count = 1
+
+----------------------------------------
+
+Window 5
+
+[5,5,5]
+
+sum = 15
+
+Yes
+
+count = 2
+
+----------------------------------------
+
+Window 6
+
+[5,5,8]
+
+sum = 18
+
+Yes
+
+count = 3
+
+----------------------------------------
+
+Final Answer
+
+3
+
+----------------------------------------
+Why Sliding Window Works
+----------------------------------------
+
+Moving from:
+
+[2,5,5]
+
+to
+
+[5,5,5]
+
+Old Sum = 12
+
+Remove outgoing:
+
+12 - 2 = 10
+
+Add incoming:
+
+10 + 5 = 15
+
+New Sum = 15
+
+Only O(1) work.
+
+No need to recalculate entire window.
+
+----------------------------------------
+Complexity
+----------------------------------------
+
+Time Complexity:
+
+O(n)
+
+Each element enters and leaves
+the window once.
+
+----------------------------------------
+
+Space Complexity:
+
+O(1)
+
+Only a few variables used.
+
+----------------------------------------
+Key Learning
+----------------------------------------
+
+Whenever you see:
+
+"Subarray of size K"
+
+Think:
+
+Fixed Size Sliding Window
+
+Whenever you see:
+
+"Average >= threshold"
+
+Convert it into:
+
+sum >= k * threshold
+
+to avoid repeated division.
+
+----------------------------------------
+Template Used
+----------------------------------------
+
+1. Build first window
+
+2. Check condition
+
+3. Slide window
+
+   Add incoming element
+
+   Remove outgoing element
+
+4. Update answer
+
+5. Repeat
+
+========================================
