@@ -1,0 +1,263 @@
+========================================
+1456. Maximum Number of Vowels in a
+Substring of Given Length
+========================================
+
+Pattern:
+Fixed Size Sliding Window
+
+Difficulty:
+Medium
+
+----------------------------------------
+Problem Statement
+----------------------------------------
+
+Given a string s and an integer k,
+
+Find the maximum number of vowels
+present in any substring of length k.
+
+Vowels:
+
+a, e, i, o, u
+
+----------------------------------------
+Key Observation
+----------------------------------------
+
+We need to check every substring
+of size k.
+
+Brute Force:
+
+Generate every substring of size k.
+Count vowels in each substring.
+
+Time Complexity:
+
+O(n * k)
+
+Not efficient.
+
+----------------------------------------
+Optimal Approach
+----------------------------------------
+
+Use Fixed Size Sliding Window.
+
+Maintain a window of size k.
+
+Instead of recounting vowels for
+every window:
+
+1. Add incoming character.
+2. Remove outgoing character.
+3. Update answer.
+
+----------------------------------------
+Sliding Window Idea
+----------------------------------------
+
+Window:
+
+[low ........ high]
+
+Window Size:
+
+k
+
+Maintain:
+
+count = vowels in current window
+
+maxCount = maximum vowels found
+
+----------------------------------------
+Example
+----------------------------------------
+
+s = "abciiidef"
+
+k = 3
+
+----------------------------------------
+
+Window 1:
+
+"abc"
+
+Vowels:
+
+a
+
+count = 1
+
+maxCount = 1
+
+----------------------------------------
+
+Slide Window
+
+"bci"
+
+Remove:
+a
+
+Add:
+i
+
+count = 1
+
+----------------------------------------
+
+Slide Window
+
+"cii"
+
+Remove:
+b
+
+Add:
+i
+
+count = 2
+
+maxCount = 2
+
+----------------------------------------
+
+Slide Window
+
+"iii"
+
+Remove:
+c
+
+Add:
+i
+
+count = 3
+
+maxCount = 3
+
+----------------------------------------
+
+Answer:
+
+3
+
+----------------------------------------
+Why Sliding Window Works
+----------------------------------------
+
+When moving from:
+
+"abc"
+
+to
+
+"bci"
+
+We don't recount vowels.
+
+Old Count = 1
+
+Remove:
+a (vowel)
+
+count--
+
+Add:
+i (vowel)
+
+count++
+
+New Count = 1
+
+Only O(1) work.
+
+----------------------------------------
+Algorithm
+----------------------------------------
+
+1. Count vowels in first window of size k.
+
+2. Store result in maxCount.
+
+3. Slide window:
+
+   Add new character.
+
+   Remove old character.
+
+   Update maxCount.
+
+4. Return maxCount.
+
+----------------------------------------
+Helper Function
+----------------------------------------
+
+isVowel(ch)
+
+Returns true if:
+
+a
+e
+i
+o
+u
+
+Otherwise false.
+
+----------------------------------------
+Complexity
+----------------------------------------
+
+Time Complexity:
+
+O(n)
+
+Each character enters and leaves
+the window once.
+
+----------------------------------------
+
+Space Complexity:
+
+O(1)
+
+Only a few variables are used.
+
+----------------------------------------
+Key Learning
+----------------------------------------
+
+This is a classic Fixed Size
+Sliding Window problem.
+
+Whenever you see:
+
+"substring of length k"
+
+Think:
+
+Fixed Size Sliding Window
+
+----------------------------------------
+Template
+----------------------------------------
+
+Build first window.
+
+Process answer.
+
+Slide window:
+
+- Add incoming element.
+- Remove outgoing element.
+- Update answer.
+
+Repeat until end.
+========================================
