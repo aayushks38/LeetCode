@@ -1,0 +1,135 @@
+========================================
+EARLIEST FINISH TIME FOR LAND AND WATER RIDES I
+========================================
+
+Pattern:
+Greedy + Simulation
+
+Problem:
+- We must take exactly one land ride and one water ride.
+- We can take them in any order:
+  1. Land -> Water
+  2. Water -> Land
+- If the second ride has not started yet, we must wait.
+
+--------------------------------------------------
+Key Observation
+--------------------------------------------------
+
+If we choose a ride first:
+
+finishTime = startTime + duration
+
+After finishing the first ride:
+
+secondRideFinish =
+max(firstRideFinish, secondRideStart)
++ secondRideDuration
+
+Why max()?
+
+Case 1:
+First ride finishes after second ride opens.
+
+firstFinish = 10
+secondStart = 5
+
+We can start immediately at 10.
+
+max(10, 5) = 10
+
+Case 2:
+First ride finishes before second ride opens.
+
+firstFinish = 4
+secondStart = 8
+
+We must wait until 8.
+
+max(4, 8) = 8
+
+--------------------------------------------------
+Greedy Insight
+--------------------------------------------------
+
+For a fixed order:
+
+Land -> Water
+
+Only the earliest possible land finish time matters.
+
+Suppose land rides finish at:
+
+10, 15, 20
+
+Choosing 10 is always better because it gives more
+time flexibility for the water ride.
+
+So:
+
+earliestLandFinish =
+minimum(startTime + duration)
+
+Then check every water ride:
+
+answer =
+min(
+    max(earliestLandFinish, waterStart)
+    + waterDuration
+)
+
+--------------------------------------------------
+Algorithm
+--------------------------------------------------
+
+1. Compute earliest finish among all first rides.
+2. Try every ride of the second type.
+3. Calculate finishing time using:
+
+   max(firstFinish, secondStart)
+   + secondDuration
+
+4. Store minimum answer.
+5. Repeat for both orders:
+      Land -> Water
+      Water -> Land
+6. Return smaller answer.
+
+--------------------------------------------------
+Time Complexity
+--------------------------------------------------
+
+Let:
+
+n = number of land rides
+m = number of water rides
+
+Finding earliest finish:
+O(n)
+
+Checking second rides:
+O(m)
+
+Total:
+O(n + m)
+
+--------------------------------------------------
+Space Complexity
+--------------------------------------------------
+
+O(1)
+
+No extra data structures used.
+
+--------------------------------------------------
+Formula to Remember
+--------------------------------------------------
+
+finishFirst = start + duration
+
+finishSecond =
+max(finishFirst, secondStart)
++ secondDuration
+
+Final Answer =
+minimum finish time among both orders.
