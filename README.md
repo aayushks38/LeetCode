@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aayushks38/LeetCode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0075-sort-colors](https://github.com/aayushks38/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/aayushks38/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aayushks38/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [0141-linked-list-cycle](https://github.com/aayushks38/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aayushks38/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
