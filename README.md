@@ -24,6 +24,7 @@
 | [0009-palindrome-number](https://github.com/aayushks38/LeetCode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
 | [2235-add-two-integers](https://github.com/aayushks38/LeetCode/tree/master/2235-add-two-integers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/aayushks38/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aayushks38/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
