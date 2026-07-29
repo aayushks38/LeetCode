@@ -26,6 +26,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/aayushks38/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/aayushks38/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/aayushks38/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2525-categorize-box-according-to-criteria](https://github.com/aayushks38/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2651-calculate-delayed-arrival-time](https://github.com/aayushks38/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aayushks38/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aayushks38/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
