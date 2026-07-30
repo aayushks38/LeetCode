@@ -29,6 +29,7 @@
 | [1837-sum-of-digits-in-base-k](https://github.com/aayushks38/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aayushks38/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/aayushks38/LeetCode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/aayushks38/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/aayushks38/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/aayushks38/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2579-count-total-number-of-colored-cells](https://github.com/aayushks38/LeetCode/tree/master/2579-count-total-number-of-colored-cells) |
@@ -83,4 +84,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aayushks38/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aayushks38/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/aayushks38/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
