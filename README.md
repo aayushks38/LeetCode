@@ -39,6 +39,7 @@
 | [2544-alternating-digit-sum](https://github.com/aayushks38/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2579-count-total-number-of-colored-cells](https://github.com/aayushks38/LeetCode/tree/master/2579-count-total-number-of-colored-cells) |
 | [2651-calculate-delayed-arrival-time](https://github.com/aayushks38/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
+| [2652-sum-multiples](https://github.com/aayushks38/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aayushks38/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/aayushks38/LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/aayushks38/LeetCode/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
