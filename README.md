@@ -18,6 +18,7 @@
 | [1550-three-consecutive-odds](https://github.com/aayushks38/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aayushks38/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/aayushks38/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/aayushks38/LeetCode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 ## String
 |  |
 | ------- |
