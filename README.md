@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/aayushks38/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/aayushks38/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [1184-distance-between-bus-stops](https://github.com/aayushks38/LeetCode/tree/master/1184-distance-between-bus-stops) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/aayushks38/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1550-three-consecutive-odds](https://github.com/aayushks38/LeetCode/tree/master/1550-three-consecutive-odds) |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/aayushks38/LeetCode/tree/master/2413-smallest-even-multiple) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
