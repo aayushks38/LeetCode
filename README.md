@@ -38,6 +38,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/aayushks38/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/aayushks38/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aayushks38/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/aayushks38/LeetCode/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2235-add-two-integers](https://github.com/aayushks38/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/aayushks38/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/aayushks38/LeetCode/tree/master/2469-convert-the-temperature) |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/aayushks38/LeetCode/tree/master/2162-minimum-cost-to-set-cooking-time) |
 <!---LeetCode Topics End-->
