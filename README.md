@@ -109,4 +109,12 @@
 |  |
 | ------- |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/aayushks38/LeetCode/tree/master/2162-minimum-cost-to-set-cooking-time) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aayushks38/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aayushks38/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
