@@ -41,6 +41,7 @@
 | [0507-perfect-number](https://github.com/aayushks38/LeetCode/tree/master/0507-perfect-number) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/aayushks38/LeetCode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aayushks38/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1492-the-kth-factor-of-n](https://github.com/aayushks38/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aayushks38/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/aayushks38/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/aayushks38/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
@@ -109,6 +110,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/aayushks38/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/aayushks38/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Matrix
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/aayushks38/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/aayushks38/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
