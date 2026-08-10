@@ -65,6 +65,7 @@
 | [2652-sum-multiples](https://github.com/aayushks38/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aayushks38/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/aayushks38/LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
+| [2843-count-symmetric-integers](https://github.com/aayushks38/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/aayushks38/LeetCode/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aayushks38/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/aayushks38/LeetCode/tree/master/2162-minimum-cost-to-set-cooking-time) |
+| [2843-count-symmetric-integers](https://github.com/aayushks38/LeetCode/tree/master/2843-count-symmetric-integers) |
 ## Quicksort
 |  |
 | ------- |
