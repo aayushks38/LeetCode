@@ -18,6 +18,7 @@
 | [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/aayushks38/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1184-distance-between-bus-stops](https://github.com/aayushks38/LeetCode/tree/master/1184-distance-between-bus-stops) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aayushks38/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aayushks38/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/aayushks38/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1550-three-consecutive-odds](https://github.com/aayushks38/LeetCode/tree/master/1550-three-consecutive-odds) |
