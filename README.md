@@ -20,6 +20,7 @@
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/aayushks38/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/aayushks38/LeetCode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2643-row-with-maximum-ones](https://github.com/aayushks38/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2643-row-with-maximum-ones](https://github.com/aayushks38/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Enumeration
 |  |
 | ------- |
