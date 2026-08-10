@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/aayushks38/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/aayushks38/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/aayushks38/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/aayushks38/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1184-distance-between-bus-stops](https://github.com/aayushks38/LeetCode/tree/master/1184-distance-between-bus-stops) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/aayushks38/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/aayushks38/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aayushks38/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aayushks38/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -156,6 +158,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/aayushks38/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/aayushks38/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushks38/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aayushks38/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aayushks38/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
