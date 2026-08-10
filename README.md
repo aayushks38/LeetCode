@@ -19,6 +19,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aayushks38/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/aayushks38/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/aayushks38/LeetCode/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [2525-categorize-box-according-to-criteria](https://github.com/aayushks38/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2544-alternating-digit-sum](https://github.com/aayushks38/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2579-count-total-number-of-colored-cells](https://github.com/aayushks38/LeetCode/tree/master/2579-count-total-number-of-colored-cells) |
+| [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/aayushks38/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/aayushks38/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aayushks38/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -101,10 +103,12 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/aayushks38/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Matrix
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
 |  |
 | ------- |
