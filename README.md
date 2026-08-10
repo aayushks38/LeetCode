@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/aayushks38/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aayushks38/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aayushks38/LeetCode/tree/master/0016-3sum-closest) |
+| [0048-rotate-image](https://github.com/aayushks38/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aayushks38/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/aayushks38/LeetCode/tree/master/0075-sort-colors) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/aayushks38/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aayushks38/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/aayushks38/LeetCode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/aayushks38/LeetCode/tree/master/0263-ugly-number) |
 | [0492-construct-the-rectangle](https://github.com/aayushks38/LeetCode/tree/master/0492-construct-the-rectangle) |
@@ -132,6 +134,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aayushks38/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aayushks38/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/aayushks38/LeetCode/tree/master/0566-reshape-the-matrix) |
