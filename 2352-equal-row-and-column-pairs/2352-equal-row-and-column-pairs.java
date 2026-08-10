@@ -1,33 +1,26 @@
 class Solution {
     public int equalPairs(int[][] grid) {
-        int pair=0;
-        int temp=0;
-        int row=0;
-        while(temp<=grid.length-1)
-        {
-            HashMap<Integer,Integer> map=new HashMap<>();
-            for(int j=0;j<grid.length;j++)
-            {
-                map.put(j,grid[row][j]);
-            }
-            for(int i=0;i<grid.length;i++)
-            {
-                int curr=0;
-                for(int k=0;k<grid.length;k++)
-                {
-                    if(map.get(k)!=grid[k][i])
-                    {
-                        curr=0;
-                        break;
-                    }
-                    else
-                        curr=1;
-                }
-                pair+=curr;
-            }
-            row++;
-            temp++;
+        int n = grid.length;
+        HashMap<String, Integer> map = new HashMap<>();
+        
+        for (int[] i : grid) {
+            String s = Arrays.toString(i);
+            map.put(s, map.getOrDefault(s, 0) + 1);
         }
-        return pair;
+
+        int ans = 0;
+
+        for (int i = 0; i < n; i++) {
+            int[] col = new int[n];
+            for (int j = 0; j < n; j++)
+                col[j] = grid[j][i];
+
+            String s = Arrays.toString(col);
+
+            if (map.containsKey(s))
+                ans += map.get(s);
+        }
+
+        return ans;
     }
 }
