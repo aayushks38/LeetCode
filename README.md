@@ -20,6 +20,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aayushks38/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/aayushks38/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/aayushks38/LeetCode/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/aayushks38/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/aayushks38/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/aayushks38/LeetCode/tree/master/2643-row-with-maximum-ones) |
@@ -82,6 +83,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/aayushks38/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
+| [2352-equal-row-and-column-pairs](https://github.com/aayushks38/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/aayushks38/LeetCode/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/aayushks38/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/aayushks38/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/aayushks38/LeetCode/tree/master/2643-row-with-maximum-ones) |
@@ -132,6 +135,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aayushks38/LeetCode/tree/master/0054-spiral-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/aayushks38/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
