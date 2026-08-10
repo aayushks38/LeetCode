@@ -22,6 +22,7 @@
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/aayushks38/LeetCode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushks38/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/aayushks38/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aayushks38/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/aayushks38/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## String
@@ -117,6 +118,7 @@
 | [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushks38/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/aayushks38/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aayushks38/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/aayushks38/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Enumeration
@@ -136,6 +138,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/aayushks38/LeetCode/tree/master/0054-spiral-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushks38/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aayushks38/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Prefix Sum
 |  |
 | ------- |
