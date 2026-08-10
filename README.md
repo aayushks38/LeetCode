@@ -34,6 +34,7 @@
 | [0263-ugly-number](https://github.com/aayushks38/LeetCode/tree/master/0263-ugly-number) |
 | [0492-construct-the-rectangle](https://github.com/aayushks38/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/aayushks38/LeetCode/tree/master/0507-perfect-number) |
+| [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/aayushks38/LeetCode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aayushks38/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aayushks38/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/aayushks38/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
