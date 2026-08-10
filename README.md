@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/aayushks38/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0812-largest-triangle-area](https://github.com/aayushks38/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1184-distance-between-bus-stops](https://github.com/aayushks38/LeetCode/tree/master/1184-distance-between-bus-stops) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aayushks38/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/aayushks38/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -40,6 +41,7 @@
 | [0263-ugly-number](https://github.com/aayushks38/LeetCode/tree/master/0263-ugly-number) |
 | [0492-construct-the-rectangle](https://github.com/aayushks38/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/aayushks38/LeetCode/tree/master/0507-perfect-number) |
+| [0812-largest-triangle-area](https://github.com/aayushks38/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/aayushks38/LeetCode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aayushks38/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/aayushks38/LeetCode/tree/master/1492-the-kth-factor-of-n) |
@@ -151,4 +153,12 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/aayushks38/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/aayushks38/LeetCode/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/aayushks38/LeetCode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
