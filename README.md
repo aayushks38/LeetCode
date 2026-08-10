@@ -55,6 +55,7 @@
 | [0492-construct-the-rectangle](https://github.com/aayushks38/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/aayushks38/LeetCode/tree/master/0507-perfect-number) |
 | [0812-largest-triangle-area](https://github.com/aayushks38/LeetCode/tree/master/0812-largest-triangle-area) |
+| [0858-mirror-reflection](https://github.com/aayushks38/LeetCode/tree/master/0858-mirror-reflection) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aayushks38/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/aayushks38/LeetCode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aayushks38/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -131,6 +132,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/aayushks38/LeetCode/tree/master/0858-mirror-reflection) |
 | [1492-the-kth-factor-of-n](https://github.com/aayushks38/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/aayushks38/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/aayushks38/LeetCode/tree/master/0812-largest-triangle-area) |
+| [0858-mirror-reflection](https://github.com/aayushks38/LeetCode/tree/master/0858-mirror-reflection) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aayushks38/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Polygons
 |  |
@@ -200,4 +203,12 @@
 |  |
 | ------- |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aayushks38/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/aayushks38/LeetCode/tree/master/0858-mirror-reflection) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/aayushks38/LeetCode/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
