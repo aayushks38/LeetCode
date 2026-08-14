@@ -59,6 +59,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/aayushks38/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/aayushks38/LeetCode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aayushks38/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1362-closest-divisors](https://github.com/aayushks38/LeetCode/tree/master/1362-closest-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/aayushks38/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aayushks38/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/aayushks38/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -184,6 +185,7 @@
 ## Prime Factorization
 |  |
 | ------- |
+| [1362-closest-divisors](https://github.com/aayushks38/LeetCode/tree/master/1362-closest-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/aayushks38/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 ## Geometry
 |  |
