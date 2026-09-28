@@ -25,6 +25,7 @@
 | [0198-house-robber](https://github.com/aayushks38/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aayushks38/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/aayushks38/LeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/aayushks38/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/aayushks38/LeetCode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/aayushks38/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -174,6 +175,7 @@
 | [0073-set-matrix-zeroes](https://github.com/aayushks38/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aayushks38/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/aayushks38/LeetCode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/aayushks38/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/aayushks38/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -262,6 +264,7 @@
 | [0152-maximum-product-subarray](https://github.com/aayushks38/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aayushks38/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aayushks38/LeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/aayushks38/LeetCode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/aayushks38/LeetCode/tree/master/0322-coin-change) |
 ## Stack
 |  |
