@@ -21,6 +21,7 @@
 | [0198-house-robber](https://github.com/aayushks38/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aayushks38/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/aayushks38/LeetCode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/aayushks38/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/aayushks38/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -249,6 +250,7 @@
 | [0042-trapping-rain-water](https://github.com/aayushks38/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayushks38/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/aayushks38/LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/aayushks38/LeetCode/tree/master/0322-coin-change) |
 ## Stack
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/aayushks38/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aayushks38/LeetCode/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/aayushks38/LeetCode/tree/master/0322-coin-change) |
 ## Graph Theory
 |  |
 | ------- |
@@ -291,4 +294,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aayushks38/LeetCode/tree/master/0200-number-of-islands) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/aayushks38/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/aayushks38/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
