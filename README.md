@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aayushks38/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/aayushks38/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/aayushks38/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/aayushks38/LeetCode/tree/master/0068-text-justification) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushks38/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -259,6 +260,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/aayushks38/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aayushks38/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayushks38/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aayushks38/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -269,6 +271,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/aayushks38/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aayushks38/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/aayushks38/LeetCode/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
@@ -318,4 +321,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/aayushks38/LeetCode/tree/master/0322-coin-change) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/aayushks38/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
