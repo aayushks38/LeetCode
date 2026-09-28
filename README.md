@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/aayushks38/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aayushks38/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aayushks38/LeetCode/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/aayushks38/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aayushks38/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aayushks38/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0015-3sum](https://github.com/aayushks38/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aayushks38/LeetCode/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/aayushks38/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aayushks38/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/aayushks38/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aayushks38/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -227,4 +229,16 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aayushks38/LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aayushks38/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aayushks38/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
