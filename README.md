@@ -55,6 +55,7 @@
 | [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/aayushks38/LeetCode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/aayushks38/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [2748-number-of-beautiful-pairs](https://github.com/aayushks38/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/aayushks38/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aayushks38/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## String
@@ -99,6 +100,7 @@
 | [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/aayushks38/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/aayushks38/LeetCode/tree/master/2652-sum-multiples) |
+| [2748-number-of-beautiful-pairs](https://github.com/aayushks38/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aayushks38/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/aayushks38/LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2843-count-symmetric-integers](https://github.com/aayushks38/LeetCode/tree/master/2843-count-symmetric-integers) |
@@ -137,6 +139,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/aayushks38/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0752-open-the-lock](https://github.com/aayushks38/LeetCode/tree/master/0752-open-the-lock) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushks38/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2748-number-of-beautiful-pairs](https://github.com/aayushks38/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aayushks38/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Bit Manipulation
 |  |
@@ -156,6 +159,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
+| [2748-number-of-beautiful-pairs](https://github.com/aayushks38/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aayushks38/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Linked List
 |  |
@@ -170,6 +174,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/aayushks38/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/aayushks38/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2748-number-of-beautiful-pairs](https://github.com/aayushks38/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 ## Matrix
 |  |
 | ------- |
