@@ -292,11 +292,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/aayushks38/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aayushks38/LeetCode/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/aayushks38/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aayushks38/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/aayushks38/LeetCode/tree/master/0322-coin-change) |
@@ -341,4 +343,12 @@
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/aayushks38/LeetCode/tree/master/0752-open-the-lock) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
