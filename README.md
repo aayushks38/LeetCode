@@ -54,6 +54,7 @@
 | [2428-maximum-sum-of-an-hourglass](https://github.com/aayushks38/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aayushks38/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aayushks38/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/aayushks38/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2614-prime-in-diagonal](https://github.com/aayushks38/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/aayushks38/LeetCode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/aayushks38/LeetCode/tree/master/2643-row-with-maximum-ones) |
@@ -121,6 +122,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/aayushks38/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
 | [0696-count-binary-substrings](https://github.com/aayushks38/LeetCode/tree/master/0696-count-binary-substrings) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/aayushks38/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/aayushks38/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0752-open-the-lock](https://github.com/aayushks38/LeetCode/tree/master/0752-open-the-lock) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushks38/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/aayushks38/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2748-number-of-beautiful-pairs](https://github.com/aayushks38/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aayushks38/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Bit Manipulation
