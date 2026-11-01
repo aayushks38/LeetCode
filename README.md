@@ -73,6 +73,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aayushks38/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aayushks38/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aayushks38/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aayushks38/LeetCode/tree/master/0048-rotate-image) |
@@ -167,6 +168,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aayushks38/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/aayushks38/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aayushks38/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aayushks38/LeetCode/tree/master/0146-lru-cache) |
@@ -365,4 +367,8 @@
 | [0101-symmetric-tree](https://github.com/aayushks38/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0226-invert-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aayushks38/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
