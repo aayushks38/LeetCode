@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aayushks38/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/aayushks38/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aayushks38/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aayushks38/LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/aayushks38/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aayushks38/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aayushks38/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/aayushks38/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/aayushks38/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/aayushks38/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/aayushks38/LeetCode/tree/master/0068-text-justification) |
@@ -398,4 +400,8 @@
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/aayushks38/LeetCode/tree/master/2363-merge-similar-items) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aayushks38/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
