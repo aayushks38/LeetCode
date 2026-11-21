@@ -84,6 +84,7 @@
 | [0013-roman-to-integer](https://github.com/aayushks38/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aayushks38/LeetCode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/aayushks38/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aayushks38/LeetCode/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aayushks38/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/aayushks38/LeetCode/tree/master/0492-construct-the-rectangle) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aayushks38/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/aayushks38/LeetCode/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
@@ -396,6 +398,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/aayushks38/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aayushks38/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/aayushks38/LeetCode/tree/master/0231-power-of-two) |
 ## Ordered Set
 |  |
 | ------- |
