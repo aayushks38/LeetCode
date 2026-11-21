@@ -4,9 +4,7 @@ class Solution {
     int minOnRight[] = new int[n];
     minOnRight[n - 1] = nums[n - 1];
 	
-	// loop for maintaing values of minimum on the right
     for(int i = n - 2; i >= 2; i--){
-	    //minimum is either the number itself or the minimum that is on right of this element we are traversing
         minOnRight[i] = Math.min(minOnRight[i + 1], nums[i]);           
     }
     
