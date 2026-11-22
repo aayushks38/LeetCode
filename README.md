@@ -74,6 +74,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aayushks38/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/aayushks38/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/aayushks38/LeetCode/tree/master/0068-text-justification) |
+| [0242-valid-anagram](https://github.com/aayushks38/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushks38/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/aayushks38/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/aayushks38/LeetCode/tree/master/0752-open-the-lock) |
@@ -139,6 +140,7 @@
 | [0016-3sum-closest](https://github.com/aayushks38/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/aayushks38/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/aayushks38/LeetCode/tree/master/0242-valid-anagram) |
 | [2363-merge-similar-items](https://github.com/aayushks38/LeetCode/tree/master/2363-merge-similar-items) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aayushks38/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Hash Table
@@ -153,6 +155,7 @@
 | [0146-lru-cache](https://github.com/aayushks38/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/aayushks38/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushks38/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0752-open-the-lock](https://github.com/aayushks38/LeetCode/tree/master/0752-open-the-lock) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushks38/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
