@@ -25,6 +25,7 @@
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/aayushks38/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aayushks38/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/aayushks38/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/aayushks38/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/aayushks38/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -89,6 +90,7 @@
 | [0029-divide-two-integers](https://github.com/aayushks38/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/aayushks38/LeetCode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/aayushks38/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aayushks38/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aayushks38/LeetCode/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aayushks38/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -199,6 +201,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aayushks38/LeetCode/tree/master/0204-count-primes) |
 | [0858-mirror-reflection](https://github.com/aayushks38/LeetCode/tree/master/0858-mirror-reflection) |
 | [1492-the-kth-factor-of-n](https://github.com/aayushks38/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/aayushks38/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -233,6 +236,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aayushks38/LeetCode/tree/master/0204-count-primes) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/aayushks38/LeetCode/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2843-count-symmetric-integers](https://github.com/aayushks38/LeetCode/tree/master/2843-count-symmetric-integers) |
 ## Quicksort
@@ -422,4 +426,16 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aayushks38/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aayushks38/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aayushks38/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
