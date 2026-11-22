@@ -74,6 +74,7 @@
 | [0014-longest-common-prefix](https://github.com/aayushks38/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/aayushks38/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/aayushks38/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/aayushks38/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aayushks38/LeetCode/tree/master/0068-text-justification) |
 | [0242-valid-anagram](https://github.com/aayushks38/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushks38/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -89,6 +90,7 @@
 | [0013-roman-to-integer](https://github.com/aayushks38/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aayushks38/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/aayushks38/LeetCode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/aayushks38/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aayushks38/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aayushks38/LeetCode/tree/master/0231-power-of-two) |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aayushks38/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/aayushks38/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/aayushks38/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/aayushks38/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aayushks38/LeetCode/tree/master/0231-power-of-two) |
@@ -255,6 +258,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/aayushks38/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/aayushks38/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aayushks38/LeetCode/tree/master/0068-text-justification) |
 | [0566-reshape-the-matrix](https://github.com/aayushks38/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/aayushks38/LeetCode/tree/master/0735-asteroid-collision) |
