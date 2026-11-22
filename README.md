@@ -78,6 +78,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/aayushks38/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/aayushks38/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/aayushks38/LeetCode/tree/master/0752-open-the-lock) |
+| [0831-masking-personal-information](https://github.com/aayushks38/LeetCode/tree/master/0831-masking-personal-information) |
 ## Math
 |  |
 | ------- |
