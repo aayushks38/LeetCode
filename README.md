@@ -206,6 +206,7 @@
 | [0146-lru-cache](https://github.com/aayushks38/LeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/aayushks38/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aayushks38/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/aayushks38/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Number Theory
 |  |
 | ------- |
