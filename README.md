@@ -204,6 +204,7 @@
 | [0141-linked-list-cycle](https://github.com/aayushks38/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aayushks38/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aayushks38/LeetCode/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/aayushks38/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -420,6 +421,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/aayushks38/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aayushks38/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/aayushks38/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/aayushks38/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aayushks38/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aayushks38/LeetCode/tree/master/0342-power-of-four) |
