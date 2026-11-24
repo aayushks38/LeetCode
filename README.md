@@ -35,6 +35,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aayushks38/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/aayushks38/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/aayushks38/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/aayushks38/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aayushks38/LeetCode/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/aayushks38/LeetCode/tree/master/0752-open-the-lock) |
 | [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -277,6 +278,7 @@
 | [0067-add-binary](https://github.com/aayushks38/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aayushks38/LeetCode/tree/master/0068-text-justification) |
 | [0566-reshape-the-matrix](https://github.com/aayushks38/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/aayushks38/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aayushks38/LeetCode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/aayushks38/LeetCode/tree/master/0867-transpose-matrix) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/aayushks38/LeetCode/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -348,6 +350,7 @@
 | [0155-min-stack](https://github.com/aayushks38/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aayushks38/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/aayushks38/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/aayushks38/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aayushks38/LeetCode/tree/master/0735-asteroid-collision) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aayushks38/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
