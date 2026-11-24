@@ -74,6 +74,7 @@
 | [0013-roman-to-integer](https://github.com/aayushks38/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aayushks38/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/aayushks38/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/aayushks38/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/aayushks38/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aayushks38/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aayushks38/LeetCode/tree/master/0068-text-justification) |
@@ -90,6 +91,7 @@
 | [0009-palindrome-number](https://github.com/aayushks38/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aayushks38/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aayushks38/LeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/aayushks38/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aayushks38/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/aayushks38/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
@@ -263,6 +265,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aayushks38/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/aayushks38/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/aayushks38/LeetCode/tree/master/0067-add-binary) |
