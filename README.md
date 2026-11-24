@@ -49,6 +49,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/aayushks38/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aayushks38/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/aayushks38/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/aayushks38/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/aayushks38/LeetCode/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/aayushks38/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/aayushks38/LeetCode/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -346,10 +347,12 @@
 | [0225-implement-stack-using-queues](https://github.com/aayushks38/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/aayushks38/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/aayushks38/LeetCode/tree/master/0735-asteroid-collision) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/aayushks38/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aayushks38/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/aayushks38/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Depth-First Search
 |  |
 | ------- |
