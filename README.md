@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayushks38/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/aayushks38/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/aayushks38/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aayushks38/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/aayushks38/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/aayushks38/LeetCode/tree/master/0198-house-robber) |
@@ -94,6 +95,7 @@
 | [0043-multiply-strings](https://github.com/aayushks38/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aayushks38/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/aayushks38/LeetCode/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aayushks38/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aayushks38/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aayushks38/LeetCode/tree/master/0231-power-of-two) |
@@ -339,6 +341,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/aayushks38/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aayushks38/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aayushks38/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aayushks38/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/aayushks38/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/aayushks38/LeetCode/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
