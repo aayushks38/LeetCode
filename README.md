@@ -36,6 +36,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/aayushks38/LeetCode/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/aayushks38/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aayushks38/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/aayushks38/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/aayushks38/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -159,6 +160,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/aayushks38/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aayushks38/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/aayushks38/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/aayushks38/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/aayushks38/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/aayushks38/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -171,6 +173,7 @@
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aayushks38/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aayushks38/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2363-merge-similar-items](https://github.com/aayushks38/LeetCode/tree/master/2363-merge-similar-items) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aayushks38/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Hash Table
@@ -189,6 +192,7 @@
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/aayushks38/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aayushks38/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushks38/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0752-open-the-lock](https://github.com/aayushks38/LeetCode/tree/master/0752-open-the-lock) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushks38/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -349,6 +353,7 @@
 | [0162-find-peak-element](https://github.com/aayushks38/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aayushks38/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aayushks38/LeetCode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
