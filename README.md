@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/aayushks38/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aayushks38/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aayushks38/LeetCode/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aayushks38/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayushks38/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/aayushks38/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aayushks38/LeetCode/tree/master/0048-rotate-image) |
@@ -326,6 +327,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aayushks38/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayushks38/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/aayushks38/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
