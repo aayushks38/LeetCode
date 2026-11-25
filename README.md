@@ -34,6 +34,7 @@
 | [0213-house-robber-ii](https://github.com/aayushks38/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/aayushks38/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/aayushks38/LeetCode/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aayushks38/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/aayushks38/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -111,6 +112,7 @@
 | [0204-count-primes](https://github.com/aayushks38/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aayushks38/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aayushks38/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aayushks38/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aayushks38/LeetCode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aayushks38/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -168,6 +170,7 @@
 | [0075-sort-colors](https://github.com/aayushks38/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aayushks38/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
 | [2363-merge-similar-items](https://github.com/aayushks38/LeetCode/tree/master/2363-merge-similar-items) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aayushks38/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Hash Table
@@ -185,6 +188,7 @@
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/aayushks38/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushks38/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0752-open-the-lock](https://github.com/aayushks38/LeetCode/tree/master/0752-open-the-lock) |
 | [2352-equal-row-and-column-pairs](https://github.com/aayushks38/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -200,6 +204,7 @@
 | [0136-single-number](https://github.com/aayushks38/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/aayushks38/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aayushks38/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aayushks38/LeetCode/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
@@ -343,6 +348,7 @@
 | [0074-search-a-2d-matrix](https://github.com/aayushks38/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/aayushks38/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/aayushks38/LeetCode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
