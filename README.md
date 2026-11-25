@@ -26,6 +26,7 @@
 | [0136-single-number](https://github.com/aayushks38/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aayushks38/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/aayushks38/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/aayushks38/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/aayushks38/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aayushks38/LeetCode/tree/master/0200-number-of-islands) |
@@ -330,6 +331,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aayushks38/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayushks38/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/aayushks38/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/aayushks38/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/aayushks38/LeetCode/tree/master/0704-binary-search) |
 ## Dynamic Programming
