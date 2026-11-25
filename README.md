@@ -37,6 +37,7 @@
 | [0485-max-consecutive-ones](https://github.com/aayushks38/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/aayushks38/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/aayushks38/LeetCode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/aayushks38/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/aayushks38/LeetCode/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/aayushks38/LeetCode/tree/master/0752-open-the-lock) |
 | [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -328,6 +329,7 @@
 | [0035-search-insert-position](https://github.com/aayushks38/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/aayushks38/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/aayushks38/LeetCode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
