@@ -111,6 +111,7 @@
 | [0029-divide-two-integers](https://github.com/aayushks38/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/aayushks38/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aayushks38/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/aayushks38/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/aayushks38/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aayushks38/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
@@ -495,6 +496,7 @@
 | [0002-add-two-numbers](https://github.com/aayushks38/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aayushks38/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aayushks38/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/aayushks38/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/aayushks38/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aayushks38/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aayushks38/LeetCode/tree/master/0231-power-of-two) |
