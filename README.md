@@ -51,6 +51,7 @@
 | [0812-largest-triangle-area](https://github.com/aayushks38/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/aayushks38/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/aayushks38/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0891-sum-of-subsequence-widths](https://github.com/aayushks38/LeetCode/tree/master/0891-sum-of-subsequence-widths) |
 | [0896-monotonic-array](https://github.com/aayushks38/LeetCode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/aayushks38/LeetCode/tree/master/0912-sort-an-array) |
 | [1184-distance-between-bus-stops](https://github.com/aayushks38/LeetCode/tree/master/1184-distance-between-bus-stops) |
@@ -131,6 +132,7 @@
 | [0507-perfect-number](https://github.com/aayushks38/LeetCode/tree/master/0507-perfect-number) |
 | [0812-largest-triangle-area](https://github.com/aayushks38/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/aayushks38/LeetCode/tree/master/0858-mirror-reflection) |
+| [0891-sum-of-subsequence-widths](https://github.com/aayushks38/LeetCode/tree/master/0891-sum-of-subsequence-widths) |
 | [1017-convert-to-base-2](https://github.com/aayushks38/LeetCode/tree/master/1017-convert-to-base-2) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aayushks38/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/aayushks38/LeetCode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
@@ -187,6 +189,7 @@
 | [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushks38/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aayushks38/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0891-sum-of-subsequence-widths](https://github.com/aayushks38/LeetCode/tree/master/0891-sum-of-subsequence-widths) |
 | [0912-sort-an-array](https://github.com/aayushks38/LeetCode/tree/master/0912-sort-an-array) |
 | [1840-maximum-building-height](https://github.com/aayushks38/LeetCode/tree/master/1840-maximum-building-height) |
 | [2363-merge-similar-items](https://github.com/aayushks38/LeetCode/tree/master/2363-merge-similar-items) |
