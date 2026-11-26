@@ -96,6 +96,7 @@
 | [0067-add-binary](https://github.com/aayushks38/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aayushks38/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/aayushks38/LeetCode/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/aayushks38/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/aayushks38/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushks38/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/aayushks38/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -117,6 +118,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/aayushks38/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aayushks38/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aayushks38/LeetCode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/aayushks38/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/aayushks38/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aayushks38/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
@@ -397,6 +399,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aayushks38/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aayushks38/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aayushks38/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/aayushks38/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/aayushks38/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/aayushks38/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/aayushks38/LeetCode/tree/master/0682-baseball-game) |
@@ -503,6 +506,7 @@
 | [0050-powx-n](https://github.com/aayushks38/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/aayushks38/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aayushks38/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/aayushks38/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/aayushks38/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aayushks38/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/aayushks38/LeetCode/tree/master/0326-power-of-three) |
