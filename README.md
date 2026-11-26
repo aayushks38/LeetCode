@@ -120,6 +120,7 @@
 | [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aayushks38/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aayushks38/LeetCode/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/aayushks38/LeetCode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aayushks38/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/aayushks38/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/aayushks38/LeetCode/tree/master/0507-perfect-number) |
@@ -363,6 +364,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushks38/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/aayushks38/LeetCode/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aayushks38/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/aayushks38/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aayushks38/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
