@@ -61,6 +61,7 @@
 | [1550-three-consecutive-odds](https://github.com/aayushks38/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/aayushks38/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aayushks38/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/aayushks38/LeetCode/tree/master/1840-maximum-building-height) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/aayushks38/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aayushks38/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/aayushks38/LeetCode/tree/master/2012-sum-of-beauty-in-the-array) |
@@ -139,6 +140,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aayushks38/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/aayushks38/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/aayushks38/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
+| [1840-maximum-building-height](https://github.com/aayushks38/LeetCode/tree/master/1840-maximum-building-height) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aayushks38/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/aayushks38/LeetCode/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2235-add-two-integers](https://github.com/aayushks38/LeetCode/tree/master/2235-add-two-integers) |
@@ -186,6 +188,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aayushks38/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aayushks38/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0912-sort-an-array](https://github.com/aayushks38/LeetCode/tree/master/0912-sort-an-array) |
+| [1840-maximum-building-height](https://github.com/aayushks38/LeetCode/tree/master/1840-maximum-building-height) |
 | [2363-merge-similar-items](https://github.com/aayushks38/LeetCode/tree/master/2363-merge-similar-items) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aayushks38/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Hash Table
