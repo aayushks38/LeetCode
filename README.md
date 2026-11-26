@@ -52,6 +52,7 @@
 | [0867-transpose-matrix](https://github.com/aayushks38/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/aayushks38/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/aayushks38/LeetCode/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/aayushks38/LeetCode/tree/master/0912-sort-an-array) |
 | [1184-distance-between-bus-stops](https://github.com/aayushks38/LeetCode/tree/master/1184-distance-between-bus-stops) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aayushks38/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aayushks38/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -182,6 +183,7 @@
 | [0268-missing-number](https://github.com/aayushks38/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aayushks38/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aayushks38/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0912-sort-an-array](https://github.com/aayushks38/LeetCode/tree/master/0912-sort-an-array) |
 | [2363-merge-similar-items](https://github.com/aayushks38/LeetCode/tree/master/2363-merge-similar-items) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aayushks38/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Hash Table
@@ -231,6 +233,7 @@
 | [0169-majority-element](https://github.com/aayushks38/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/aayushks38/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aayushks38/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/aayushks38/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -340,6 +343,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/aayushks38/LeetCode/tree/master/0912-sort-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aayushks38/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Greedy
 |  |
@@ -536,4 +540,20 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aayushks38/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aayushks38/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aayushks38/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aayushks38/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aayushks38/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
