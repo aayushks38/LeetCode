@@ -45,6 +45,7 @@
 | [0682-baseball-game](https://github.com/aayushks38/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aayushks38/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/aayushks38/LeetCode/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aayushks38/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/aayushks38/LeetCode/tree/master/0752-open-the-lock) |
 | [0766-toeplitz-matrix](https://github.com/aayushks38/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/aayushks38/LeetCode/tree/master/0812-largest-triangle-area) |
@@ -364,6 +365,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aayushks38/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aayushks38/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/aayushks38/LeetCode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aayushks38/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/aayushks38/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
