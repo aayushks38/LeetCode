@@ -100,6 +100,7 @@
 | [0125-valid-palindrome](https://github.com/aayushks38/LeetCode/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/aayushks38/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/aayushks38/LeetCode/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayushks38/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/aayushks38/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/aayushks38/LeetCode/tree/master/0752-open-the-lock) |
@@ -432,6 +433,7 @@
 | [0200-number-of-islands](https://github.com/aayushks38/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aayushks38/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aayushks38/LeetCode/tree/master/0563-binary-tree-tilt) |
 ## Breadth-First Search
@@ -445,6 +447,7 @@
 | [0200-number-of-islands](https://github.com/aayushks38/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aayushks38/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/aayushks38/LeetCode/tree/master/0322-coin-change) |
 | [0752-open-the-lock](https://github.com/aayushks38/LeetCode/tree/master/0752-open-the-lock) |
 ## Graph Theory
@@ -465,6 +468,7 @@
 | [0146-lru-cache](https://github.com/aayushks38/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aayushks38/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aayushks38/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -502,6 +506,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aayushks38/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aayushks38/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aayushks38/LeetCode/tree/master/0563-binary-tree-tilt) |
 ## Binary Tree
@@ -516,6 +521,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aayushks38/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aayushks38/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aayushks38/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aayushks38/LeetCode/tree/master/0563-binary-tree-tilt) |
 ## Recursion
