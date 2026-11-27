@@ -82,6 +82,7 @@
 | [2748-number-of-beautiful-pairs](https://github.com/aayushks38/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/aayushks38/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aayushks38/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/aayushks38/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3030-find-the-grid-of-region-average](https://github.com/aayushks38/LeetCode/tree/master/3030-find-the-grid-of-region-average) |
 | [3169-count-days-without-meetings](https://github.com/aayushks38/LeetCode/tree/master/3169-count-days-without-meetings) |
 ## String
@@ -196,6 +197,7 @@
 | [1840-maximum-building-height](https://github.com/aayushks38/LeetCode/tree/master/1840-maximum-building-height) |
 | [2363-merge-similar-items](https://github.com/aayushks38/LeetCode/tree/master/2363-merge-similar-items) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aayushks38/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/aayushks38/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3169-count-days-without-meetings](https://github.com/aayushks38/LeetCode/tree/master/3169-count-days-without-meetings) |
 ## Hash Table
 |  |
